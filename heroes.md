@@ -1,6 +1,6 @@
 # Heroes
 
-* Superman2
+* Superman22
 * Batman
 * Aquaman
 * Mujer Maravilla
